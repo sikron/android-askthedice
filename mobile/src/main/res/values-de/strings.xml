@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ask The Dice</string>
+    <string name="pref_background_color_title">Hintergrundfarbe</string>
+    <string name="pref_background_color_summary">Farbe des Hintergrundes</string>
+    <string name="pref_die_color_title">Würfelfarbe</string>
+    <string name="pref_die_color_summary">Farbe des Würfels</string>
+    <string name="pref_text_color_title">Textfarbe</string>
+    <string name="pref_text_color_summary">Farbe des Texts</string>
+    <string name="pref_vibrate_summary">Soll die Uhr vibrieren beim Würfeln?</string>
+    <string name="pref_vibrate_title">Vibration</string>
+</resources>

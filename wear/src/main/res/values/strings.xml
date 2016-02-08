@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ask The Dice</string>
+    <string name="eat_a_cookie">" Eat a\ncookie"</string>
+    <string name="have_a_coffe">"Have a\ncoffee"</string>
+    <string name="maybe">Maybe</string>
+    <string name="no">No</string>
+    <string name="take_a_break">"Take a\nbreak"</string>
+    <string name="think_about_it">"  Think\nabout it"</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="yes">Yes</string>
+</resources>

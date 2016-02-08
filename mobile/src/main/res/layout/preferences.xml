@@ -1,0 +1,29 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="vibrate_active"
+        android:title="@string/pref_vibrate_title"
+        android:summary="@string/pref_vibrate_summary"
+        android:defaultValue="true"
+        />
+    <net.margaritov.preference.colorpicker.ColorPickerPreference
+        android:key="color_die"
+        android:title="@string/pref_die_color_title"
+        android:summary="@string/pref_die_color_summary"
+        android:defaultValue="0xffc5c6c8"
+        />
+    <net.margaritov.preference.colorpicker.ColorPickerPreference
+        android:key="color_background"
+        android:title="@string/pref_background_color_title"
+        android:summary="@string/pref_background_color_summary"
+        android:defaultValue="0xff3fadff"
+        />
+    <net.margaritov.preference.colorpicker.ColorPickerPreference
+        android:key="color_text"
+        android:title="@string/pref_text_color_title"
+        android:summary="@string/pref_text_color_summary"
+        android:defaultValue="0xff000000"
+        />
+
+</PreferenceScreen>

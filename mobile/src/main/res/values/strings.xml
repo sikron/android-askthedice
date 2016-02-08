@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ask The Dice</string>
+    <string name="pref_vibrate_title">Vibration</string>
+    <string name="pref_vibrate_summary">Should the watch vibrate on roll?</string>
+    <string name="pref_die_color_title">Die color</string>
+    <string name="pref_die_color_summary">Color of the die</string>
+    <string name="pref_background_color_title">Background color</string>
+    <string name="pref_background_color_summary">Color of the background</string>
+    <string name="pref_text_color_title">Text color</string>
+    <string name="pref_text_color_summary">Color of the text</string>
+</resources>
